@@ -15,7 +15,7 @@ Refers to how recently a customer has made a purchase or engaged with the busine
 In the context of a loan propensity model, it can be thought of as how recently the customer has interacted with the loan offerings or applied for a loan.
 A higher recency score means the customer has recently interacted with the business, indicating they may be more likely to make another purchase or take out a loan.
 
-requency (F):
+Frequency (F):
 
 Refers to how often a customer makes a purchase or engages with the business.
 In a loan model, this could indicate how often a customer has taken loans or interacted with financial products in the past.

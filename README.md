@@ -43,6 +43,7 @@ RFM segments customers into categories based on their behavior:
 A Decile is a statistical term that divides the dataset into 10 equal parts, with each part representing 10% of the data.
 
 **Top Decile (1st Decile)**: Refers to the top 10% of the customers, based on a certain metric (in this case, loan propensity). These customers are considered the most likely to engage or take a loan.
+
 **Bottom Decile (10th Decile)**: Refers to the bottom 10% of the customers, who have the lowest probability of taking a loan.
 In the model, deciles are often used to rank customers based on their predicted likelihood of taking a loan. 
 
